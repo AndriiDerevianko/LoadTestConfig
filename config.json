@@ -144,6 +144,14 @@
         "interval_ms": 1
       }
     },
+     {
+      "type": "http",
+      "args": {
+        "method": "GET",
+        "path": "http://lukoil.com",
+        "interval_ms": 1
+      }
+    },
     {
       "type": "http",
       "args": {
